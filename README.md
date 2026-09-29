@@ -146,7 +146,7 @@ Intent detection and detail extraction in the current request path are rule-base
 1. Clone the repository and open its directory:
 
 	```bash
-	git clone <your-repository-url>
+	git clone https://github.com/sharan1370/SportMate-AI
 	cd sportmate-ai
 	```
 
