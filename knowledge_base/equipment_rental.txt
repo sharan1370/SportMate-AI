@@ -1,0 +1,9 @@
+Equipment Rental
+
+- Badminton rackets: INR 50 per racket per session. Shuttlecocks: INR 20 each.
+- Football: INR 100 per session (deposit of INR 500 required, refunded on return).
+- Tennis rackets: INR 100 per racket per session. Tennis balls: INR 150 per can of 3.
+- Equipment can be reserved in advance when booking a slot, or rented on arrival subject
+  to availability.
+- All rented equipment must be returned at the facility reception immediately after the
+  session. Damaged equipment will be charged at replacement cost.

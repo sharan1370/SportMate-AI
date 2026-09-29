@@ -1,0 +1,47 @@
+[
+  {
+    "resource_id": "BC1",
+    "name": "Badminton Court 1",
+    "type": "badminton",
+    "capacity": 4,
+    "hourly_rate": 300,
+    "opening_time": "06:00",
+    "closing_time": "22:00"
+  },
+  {
+    "resource_id": "BC2",
+    "name": "Badminton Court 2",
+    "type": "badminton",
+    "capacity": 4,
+    "hourly_rate": 300,
+    "opening_time": "06:00",
+    "closing_time": "22:00"
+  },
+  {
+    "resource_id": "FT1",
+    "name": "Football Turf A",
+    "type": "football",
+    "capacity": 22,
+    "hourly_rate": 1200,
+    "opening_time": "06:00",
+    "closing_time": "23:00"
+  },
+  {
+    "resource_id": "TC1",
+    "name": "Tennis Court 1",
+    "type": "tennis",
+    "capacity": 4,
+    "hourly_rate": 500,
+    "opening_time": "06:00",
+    "closing_time": "21:00"
+  },
+  {
+    "resource_id": "MR1",
+    "name": "Multipurpose Room",
+    "type": "multipurpose_room",
+    "capacity": 30,
+    "hourly_rate": 800,
+    "opening_time": "08:00",
+    "closing_time": "20:00"
+  }
+]

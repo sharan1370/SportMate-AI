@@ -1,0 +1,10 @@
+Cancellation & Rescheduling Policy
+
+- Bookings can be cancelled free of charge up to 2 hours before the slot start time.
+- Cancellations made within 2 hours of the slot start time are non-refundable.
+- Rescheduling is allowed once per booking, subject to availability, and must also be
+  done at least 2 hours before the original slot start time.
+- No-shows (not cancelling and not showing up) are treated the same as a late cancellation
+  and are non-refundable.
+- Refunds for eligible cancellations are processed within 3-5 business days to the
+  original payment method.
